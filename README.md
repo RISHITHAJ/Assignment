@@ -8,7 +8,7 @@ Before you begin, ensure you have met the following requirements:
 - npm or yarn (package manager)
 
 ## Installation
-
+Clone the repository
 npm install
 
 ## To run the project run the following command
